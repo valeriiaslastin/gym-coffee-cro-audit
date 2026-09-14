@@ -1,6 +1,6 @@
 # Gym+Coffee — E-commerce CRO & Technical SEO Audit
 
-A comprehensive heuristic evaluation, user journey friction analysis, and technical SEO audit conducted for **Gym+Coffee** (`gympluscoffee.com`), a prominent Irish athleisure and lifestyle brand. 
+A hands-on CRO, UX, and technical SEO audit of **Gym+Coffee** (`gympluscoffee.com`), a popular Irish athleisure and lifestyle brand. 
 
 * **Author:** Valeriia Slastin
 * **Role:** UX & Digital Growth Analyst
@@ -9,38 +9,38 @@ A comprehensive heuristic evaluation, user journey friction analysis, and techni
 
 ---
 
-## 🎯 Executive Summary
-This project evaluates the digital storefront of Gym+Coffee to identify critical leaks in the conversion funnel, user trust barriers, and technical impediments harming organic search visibility. 
+## 🎯 About the Project
+I wanted to look under the hood of a major e-commerce player in Ireland. This project dives straight into the Gym+Coffee website to spot where they're leaking conversions, where users get stuck, and what's hurting their visibility on Google. 
 
-Using a data-driven approach combining UX heuristics, consumer psychology, and technical crawling tools, the audit surfaces **three primary conversion friction points** and **three major technical SEO risks**, complete with a prioritized, phased implementation roadmap for Design and Development teams.
+By combining UX heuristics, consumer psychology, and crawler data (Screaming Frog), I uncovered **three core conversion roadblocks** and **three major technical SEO risks** — plus a practical, phased plan to fix them.
 
 ---
 
-## 🔍 Key Findings & Scope of Work
+## 🔍 Key Findings
 
 ### 1. UX & Conversion Rate Optimization (CRO)
-* **Above-the-Fold Brand Narrative:** The homepage immediately pushes product grids without establishing brand origin, community values, or UVP, driving up cognitive load for cold traffic.
-* **Trust Signals & Social Proof:** Product cards and hero sections lack robust review counts, user-generated content (UGC), or third-party validation, heightening purchase hesitation.
-* **Activation & Retention Triggers:** Email capture lacks a concrete first-purchase incentive, and the loyalty/rewards program is buried in the footer, missing key retention and cart-abandonment recovery levers.
+* **Above-the-Fold Overload:** When visitors land on the homepage, they immediately hit product grids without any quick story about who the brand is or why they're great. It adds unnecessary friction for new traffic.
+* **Missing Trust Signals:** Product pages and hero sections don't lean heavily enough on reviews, social proof, or UGC, making people hesitate right before buying.
+* **Retention Levers Left Behind:** Email popups don't offer an instant first-purchase incentive, and the loyalty rewards are hidden away in the footer, missing easy wins for cart recovery and repeat sales.
 
 ### 2. Technical SEO Audit (Screaming Frog Crawl)
-* **Crawl Scale:** 467 URLs crawled site-wide to assess indexation health and technical performance.
-* **Server Throttling (429 Errors):** 74% of HTML pages returned `429 Too Many Requests` errors during the crawl, signaling aggressive CDN/server rate-limiting that poses a risk to Googlebot indexation frequency.
-* **Metadata Gaps:** Core commercial category paths (e.g., `/collections/all`, `/leggings`) lacked meta descriptions, ceding snippet control to search engines and depressing Click-Through Rates (CTR).
-* **Title Tag Truncation:** Key pages exceeded standard SERP character thresholds (~60 chars), weakening keyword optimization and visual clarity in search results.
+* **Crawl Scope:** Analyzed 467 site-wide URLs to check indexation health and performance.
+* **Server Throttling (429 Errors):** A massive 74% of HTML pages threw `429 Too Many Requests` errors during the crawl. This points to aggressive server/CDN rate-limiting that could mess with Googlebot's ability to properly index the site.
+* **Metadata Gaps:** Big commercial category paths (like `/collections/all` or `/leggings`) completely missed meta descriptions, leaving Google to guess snippets and dropping organic CTR.
+* **Title Tag Issues:** Key pages went over the standard SERP character limit (~60 chars), cutting off important keywords in search results.
 
 ---
 
-## 🗺️ Implementation Roadmap (Phased Approach)
-The recommendations are structured into a parallel execution framework for cross-functional teams:
-* **NOW (0–2 weeks):** Resolve server/CDN 429 rate-limiting, implement missing meta descriptions, and truncate over-length title tags to secure organic visibility and CTR.
-* **NEXT (2–6 weeks):** Design and deploy the above-the-fold brand storytelling module, integrate UGC/review feeds, and launch actionable signup/rewards incentives.
-* **ONGOING:** Continuous monitoring of crawl status, indexation health, organic CTR, and iterative CRO testing.
+## 🗺️ Action Plan (Phased Approach)
+Here is how I structured the recommendations for design and dev teams to tackle without burning out:
+* **NOW (0–2 weeks):** Fix the server/CDN 429 rate-limiting, write the missing meta descriptions, and clean up long title tags to protect organic search traffic right away.
+* **NEXT (2–6 weeks):** Redesign the hero section for better brand storytelling, add prominent review feeds, and set up clear incentives for signups and rewards.
+* **ONGOING:** Keep an eye on crawl health, indexation, organic CTR, and run continuous CRO tests.
 
 ---
 
 ## 📁 Repository Contents
-* `GymCoffee_CRO_SEO_Audit_Valeriia_Slastin.pdf` — The complete, professional 7-slide strategic audit deck.
+* `GymCoffee_CRO_SEO_Audit_Valeriia_Slastin.pdf` — The full 7-slide strategic audit presentation deck.
 
 ---
-*Prepared as part of a professional portfolio showcasing expertise in UX analytics, digital growth, and technical SEO.*
+*Built as part of my portfolio showcasing practical skills in UX analytics, digital growth, and technical SEO.*
