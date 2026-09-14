@@ -49,3 +49,13 @@ Using a data-driven approach combining UX heuristics, consumer psychology, and t
 ---
 *Created as an independent portfolio project demonstrating practical capabilities in UX analytics, e-commerce growth strategies, and technical SEO auditing.*
 
+## 📊 Audit Deck Preview
+
+<img src="Screenshot 2026-09-14 at 23.46.05.png" alt="Slide 1" width="100%">
+<img src="Screenshot 2026-09-14 at 23.46.41.png" alt="Slide 2" width="100%">
+<img src="Screenshot 2026-09-14 at 23.46.57.png" alt="Slide 3" width="100%">
+<img src="Screenshot 2026-09-14 at 23.47.16.png" alt="Slide 4" width="100%">
+<img src="Screenshot 2026-09-14 at 23.47.30.png" alt="Slide 5" width="100%">
+<img src="Screenshot 2026-09-14 at 23.47.46.png" alt="Slide 6" width="100%">
+<img src="Screenshot 2026-09-14 at 23.47.58.png" alt="Slide 7" width="100%">
+
