@@ -51,11 +51,11 @@ Using a data-driven approach combining UX heuristics, consumer psychology, and t
 
 ## 📊 Audit Deck Preview
 
-<img src="Screenshot 2026-09-14 at 23.46.05.png" alt="Slide 1" width="100%">
-<img src="Screenshot 2026-09-14 at 23.46.41.png" alt="Slide 2" width="100%">
-<img src="Screenshot 2026-09-14 at 23.46.57.png" alt="Slide 3" width="100%">
-<img src="Screenshot 2026-09-14 at 23.47.16.png" alt="Slide 4" width="100%">
-<img src="Screenshot 2026-09-14 at 23.47.30.png" alt="Slide 5" width="100%">
-<img src="Screenshot 2026-09-14 at 23.47.46.png" alt="Slide 6" width="100%">
-<img src="Screenshot 2026-09-14 at 23.47.58.png" alt="Slide 7" width="100%">
+<img src="Slide 1.png" alt="Slide 1" width="100%">
+<img src="Slide 2.png" alt="Slide 2" width="100%">
+<img src="Slide 3.png" alt="Slide 3" width="100%">
+<img src="Slide 4.png" alt="Slide 4" width="100%">
+<img src="Slide 5.png" alt="Slide 5" width="100%">
+<img src="Slide 6.png" alt="Slide 6" width="100%">
+<img src="Slide 7.png" alt="Slide 7" width="100%">
 
