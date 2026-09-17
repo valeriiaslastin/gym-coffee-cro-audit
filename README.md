@@ -50,14 +50,19 @@ Using a data-driven approach combining UX heuristics, consumer psychology, and t
 *Created as an independent portfolio project demonstrating practical capabilities in UX analytics, e-commerce growth strategies, and technical SEO auditing.*
 
 ## 📊 Audit Deck Preview
+<img width="1440" height="900" alt="Slide 1" src="https://github.com/user-attachments/assets/2740ccc7-bea5-4eaa-b46e-9437de3866fb" />
+<img width="1440" height="900" alt="Slide 2 " src="https://github.com/user-attachments/assets/5306f90d-673a-424c-a1e5-697a74e26f79" />
+<img width="1440" height="900" alt="Slide 3 " src="https://github.com/user-attachments/assets/67988ff1-65ad-4d08-ba5d-47bd3a0633d4" />
+<img width="1440" height="900" alt="Slide 4 " src="https://github.com/user-attachments/assets/39c627f4-01ab-447e-a4eb-e9c30914aba2" />
+<img width="1440" height="900" alt="Slide 5" src="https://github.com/user-attachments/assets/5c293188-73ca-4ea1-acb2-499250a3837b" />
+<img width="1440" height="900" alt="Slide 6" src="https://github.com/user-attachments/assets/795b8a83-477d-49a4-a78c-51acb6922910" />
+<img width="1440" height="900" alt="Slide 7" src="https://github.com/user-attachments/assets/6eaf2a9c-cd3a-4a03-b6c1-9337fee14d91" />
 
-<img width="1440" height="900" alt="Screenshot 2026-09-14 at 23 46 05" src="https://github.com/user-attachments/assets/f5f9bf18-d398-4afe-9d0b-ab3488f70252" />
-<img width="1440" height="900" alt="Screenshot 2026-09-14 at 23 46 41" src="https://github.com/user-attachments/assets/38bff61c-afbf-4bda-99dd-821c258c0a74" />
-<img width="1440" height="900" alt="Screenshot 2026-09-14 at 23 46 57" src="https://github.com/user-attachments/assets/9ba63625-7ee4-4a9a-a3eb-73fb4d2b16fd" />
-<img width="1440" height="900" alt="Screenshot 2026-09-14 at 23 47 16" src="https://github.com/user-attachments/assets/3fab0c3a-67cb-4156-9143-7c16c338333f" />
-<img width="1440" height="900" alt="Screenshot 2026-09-14 at 23 47 30" src="https://github.com/user-attachments/assets/db44c28a-363a-4b12-ab09-6842c3520b64" />
-<img width="1440" height="900" alt="Screenshot 2026-09-14 at 23 47 46" src="https://github.com/user-attachments/assets/e5d1ae5f-3b08-41b3-8fc9-f580e5c223da" />
-<img width="1440" height="900" alt="Screenshot 2026-09-14 at 23 47 58" src="https://github.com/user-attachments/assets/5d8e1512-07f0-4600-9690-0718c95434cc" />
+
+
+
+
+
 
 
 
